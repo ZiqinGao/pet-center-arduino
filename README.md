@@ -54,7 +54,7 @@ Arduino code and build set up for Pet Center Project.
 
 <h1><b>Part Two: Arduino UNO R3 and two sensors control two micro servos separately</b></h1>
 <p>Based on the original function I decided to add a new extension function: a new UNO Arduino board linked and controlled two different side sensors with servo micro. This means, no matter which direction (front, left, and right) the pet comes from, she can always get something. </p>
-  <img src="images/cove.jpg" alt="sketch to show how it works" width="800">
+  <img src="images/cover.jpg" alt="sketch to show how it works" width="800">
 
 <h3>Step 1: Parts List</h3>
 <ul>
