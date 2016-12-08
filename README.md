@@ -23,7 +23,7 @@ Arduino code and build set up for Pet Center Project.
 
 <h3>Step 2: Connect the sensor and make sure it works</h3>
 <p>Connect the sensor and use the Arduino libraries as resource to make sure it works.</p>
-<img src="images/Step2.jpg" alt="Connect the sensor and use the Arduino libraries as resource to make sure it works" width="800">
+<img src="images/Step2.jpg" alt="Connect the sensor and use the Arduino libraries as resource to make sure it works" width="500">
 
 <h3>Step 3: Test your sensor and led lights</h3>
 <p>Copy the code (Simple Arduino and HC-SR04 Example, which was created by jsvester for arduino) to your Arduino and test the LED lights. The sensor will measure the distance, if the distance is less than or equal to 5cm the red LED lights; otherwise, the green LED light will light.</p>
@@ -46,15 +46,14 @@ Arduino code and build set up for Pet Center Project.
 
 <p>Then, you can set everything up with the hardboards.</p>
 <ol>
-  <img src="images/Step5a.jpg" alt="put the board into the hard box" width="300">
-  <img src="images/Step5b.jpg" alt="how it looks like" width="300">
+  <img src="images/Step5.jpg" alt="put the board into the hard box" width="800">
 </ol>
 
 
 
 <h1><b>Part Two: Arduino UNO R3 and two sensors control two micro servos separately</b></h1>
 <p>Based on the original function I decided to add a new extension function: a new UNO Arduino board linked and controlled two different side sensors with servo micro. This means, no matter which direction (front, left, and right) the pet comes from, she can always get something. </p>
-  <img src="images/cover.jpg" alt="sketch to show how it works" width="600" hight ="300">
+  <img src="images/cover.jpg" alt="sketch to show how it works" width="800" hight ="400">
 
 <h3>Step 1: Parts List</h3>
 <ul>
@@ -70,7 +69,7 @@ Arduino code and build set up for Pet Center Project.
   
 <h3>Step 2: Connect the sensor and make sure it works</h3>
 <p>Connect the sensor and use the Arduino libraries as resource to make sure it works.</p>
-<img src="images/Step2.jpg" alt="Connect the sensor and use the Arduino libraries as resource to make sure it works" width="800">
+<img src="images/Step2.jpg" alt="Connect the sensor and use the Arduino libraries as resource to make sure it works" width="500">
 
 <h3>Step 3: Test your sensor and led lights</h3>
 <p>Copy the code (Simple Arduino and HC-SR04 Example, which was created by jsvester for arduino) to your Arduino and test the LED lights. The sensor will measure the distance, if the distance is less than or equal to 5cm the red LED lights; otherwise, the green LED light will light.</p>
