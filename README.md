@@ -6,7 +6,10 @@ Arduino code and build set up for Pet Center Project.
 
 <h1><b>Part One: Arduino UNO R3 and one sensor control two micro servo</b></h1>
 <p>This is the original function is when the sensor detective a pet coming, it will automatic release and drop a ball to the pet.</p>
-
+<ol>
+  <img src="images/cover1.jpg" alt="sketch to show how it works" width="400">
+  <img src="images/cover2.jpg" alt="sketch to show how it works" width="400">
+</ol>
 <h3>Step 1: Parts List</h3>
 <ul>
   <li>One Arduino UNO R3</li>
@@ -51,6 +54,7 @@ Arduino code and build set up for Pet Center Project.
 
 <h1><b>Part Two: Arduino UNO R3 and two sensors control two micro servos separately</b></h1>
 <p>Based on the original function I decided to add a new extension function: a new UNO Arduino board linked and controlled two different side sensors with servo micro. This means, no matter which direction (front, left, and right) the pet comes from, she can always get something. </p>
+  <img src="images/cove.jpg" alt="sketch to show how it works" width="800">
 
 <h3>Step 1: Parts List</h3>
 <ul>
@@ -62,7 +66,7 @@ Arduino code and build set up for Pet Center Project.
   <li>Male to MaleWires</li>
   <li>Two micro servos</li>
 </ul>
-  <img src="images/cove.jpg" alt="sketch" width="800">
+
   
 <h3>Step 2: Connect the sensor and make sure it works</h3>
 <p>Connect the sensor and use the Arduino libraries as resource to make sure it works.</p>
@@ -78,12 +82,11 @@ Arduino code and build set up for Pet Center Project.
 <h3>Step 4: Connect the components</h3>
 <p>Connect the components and wires as shown in the pictures.</p>
 <ol>
-  <img src="images/2Step4.jpg" alt=" how to connect" width="800">
-  <img src="images/2Step4a.jpg" alt="how it looks like" width="400">
+  <img src="images/2Step4a.jpg" alt="how to connect" width="400">
   <img src="images/2Step4b.jpg" alt="how it looks like" width="400">
 </ol>
 
 <h3>Step 5: Upload the code</h3>
-<p>Upload the code: arduino code to arduino code(one sensor control two micro servo)</p>
+<p>Upload the code: arduino code (two sensor control two micro servo separately)</p>
   
  
