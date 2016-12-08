@@ -1,4 +1,4 @@
-# pet-center-arduino
+# <b>pet-center-arduino</b>
 Arduino code and build set up for Pet Center Project.
 
 <h1><b>Introduction</b></h1>
