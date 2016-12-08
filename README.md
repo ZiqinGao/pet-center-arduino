@@ -24,19 +24,24 @@ Arduino code and build set up for Pet Center Project.
 
 <h3>Step 3: Test your sensor and led lights</h3>
 <p>Copy the code (Simple Arduino and HC-SR04 Example, which was created by jsvester for arduino) to your Arduino and test the LED lights. The sensor will measure the distance, if the distance is less than or equal to 5cm the red LED lights; otherwise, the green LED light will light.</p>
-</ol>
+<ol>
   <img src="images/Step3a.jpg" alt=" the distance is less than or equal to 5cm the red LED lights" width="400">
   <img src="images/Step3b.jpg" alt=" erwise, the green LED light will light." width="400">
-<ol>
+</ol>
 
 <h3>Step 4: Connect the components</h3>
 <p>Connect the components and wires as shown in the two pictures.</p>
 <p>After you have successfully connected to a micro servo, the sensor can control micro servo to move, and when the distance is less than or equal to 5cm, the red LED will light and the micro servo will rotate 180 degrees and back. On the other hand, when the green LED light is on (or the distance is greater than 5cm), the micro servo will do nothing. Then you can connect another micro servo.</p>
-</ol>
+<ol>
   <img src="images/Step4.jpg" alt=" how to connect" width="800">
   <img src="images/Step4a.jpg" alt="how it looks like" width="400">
   <img src="images/Step4b.jpg" alt="how it looks like" width="400">
+</ol>
+
+<h3>Step 5: Upload the code</h3>
+<p>Upload the code: arduino code to arduino code(one sensor control two micro servo)</p>
+
 <ol>
-
-
-<p></p>
+  <img src="images/Step5a.jpg" alt="put the board into the hard box" width="400">
+  <img src="images/Step4b.jpg" alt="how it looks like" width="400">
+</ol>
